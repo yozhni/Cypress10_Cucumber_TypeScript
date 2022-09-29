@@ -1,6 +1,5 @@
 # Cypress Cucumber Typescript Report Starter
 
-to run pretty report run
-node cucumber-html-report.js
-and
-open from reports/*.html
+<p>to run pretty report run</p>
+<p>*node cucumber-html-report.js*</p>
+<p>and open from reports/*.html</p>
