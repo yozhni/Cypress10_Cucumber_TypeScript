@@ -1,0 +1,27 @@
+{
+  "name": "tahoe",
+  "version": "1.0.0",
+  "description": "test automation for tahoe project",
+  "main": "index.js",
+  "scripts": {
+    "chrome:open": "cypress open --e2e --browser chrome --config baseUrl=https://google.com",
+    "chrome:run": "cypress run --e2e --browser chrome --config baseUrl=https://google.com"
+
+  },
+  "keywords": [
+    "cypress",
+    "typescript",
+    "cucumber"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "latest",
+    "@bahmutov/cypress-esbuild-preprocessor": "latest",
+    "cypress": "latest",
+    "cypress-xpath": "latest",
+    "esbuild": "latest",
+    "multiple-cucumber-html-reporter": "latest",
+    "typescript": "latest"
+  }
+}
