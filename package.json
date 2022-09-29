@@ -1,7 +1,7 @@
 {
-  "name": "tahoe",
+  "name": "Test_project",
   "version": "1.0.0",
-  "description": "test automation for tahoe project",
+  "description": "Test automation project",
   "main": "index.js",
   "scripts": {
     "chrome:open": "cypress open --e2e --browser chrome --config baseUrl=https://google.com",

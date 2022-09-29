@@ -1,4 +1,4 @@
-# Cypress Cucumber Typescript Report Starter
+# Cypress Cucumber Typescript with Report Starter
 1. node.js
 2. `npm i`
 3. run tests in feature
